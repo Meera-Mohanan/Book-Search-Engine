@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Route,Routes } from 'react-router-dom';
 //Creating an Apollo Provider to make every request work with the Apollo Server.
 import { ApolloClient, ApolloProvider, InMemoryCache, createHttpLink } from '@apollo/client';
 import { setContext } from "@apollo/client/link/context";
@@ -39,14 +39,14 @@ function App() {
     <Router>
       <>
         <Navbar />
-        <Route>
+        <Routes>
           <Route path='/' element={<SearchBooks />} />
           <Route path='/saved' element={<SavedBooks />} />
           <Route 
             path='*'
             element={<h1 className='display-2'>Wrong page!</h1>}
           />
-        </Route>
+        </Routes>
       </>
     </Router>
     </ApolloProvider>
