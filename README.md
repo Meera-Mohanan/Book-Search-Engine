@@ -58,15 +58,15 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 
 ## Contributors
-shruthi
+Meera
 
 ## Test
 npm test
 
 ## Questions
-  * GitHub Username : shruthisalimath
-  * Email: shruthi@test.com
-  * GitHub profile : https://github.com/shruthisalimath 
+  * GitHub Username : Meera-Mohanan
+  * 
+  * GitHub profile : https://github.com/Meera-Mohanan
 
 ## Mock Up
 A user can type a search term (in this case, "star wars") in a search box and the results appear:
@@ -76,21 +76,21 @@ The user can save books by clicking "Save This Book!" under each search result, 
 ![Book-Search-Engine](Assets/images/21-mern-homework-demo-02.gif)
 
 A user can view their saved books on a separate page, as shown in the following animation:
-![Book-Search-Engine](Assets/images/21-mern-homework-demo-03.gif)
+![Book-Search-Engine]
 
 ## ScreenShot
 A user can type a search term (in this case, "Lion King") in a search box and the results appear:
-![Book-Search-Engine](Assets/images/screenShot1-bookSearch.png)
+![Book-Search-Engine]
 
 The user can save books by clicking "Save This Book!" under each search result and can view their saved books on a separate page:
-![Book-Search-Engine](Assets/images/screenShot2-bookSearch.png)
+![Book-Search-Engine]
 
 A user can delete their saved books:
-![Book-Search-Engine](Assets/images/screenShot3-bookSearch.png)
+![Book-Search-Engine]
 
 ## URL
 1. The URL of the Heroku Delpoyed application:
-https://blooming-sierra-60762-3768ab2a3862.herokuapp.com/
+
 
 2. The URL of the GitHub repository:
-  https://github.com/shruthisalimath/BookSearch-MERN 
+https://github.com/Meera-Mohanan/Book-Search-Engine
